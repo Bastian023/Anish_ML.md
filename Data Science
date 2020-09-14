@@ -1,0 +1,11 @@
+# Machine Learning Topics
+##### Model Building (Supervised & Unsupervised models), Model building Challenges, Loss Functions, Metrics to measure model performance, NLP, Time series forecasting
+
+# Deep Learning Topics
+##### Neural networks-Architecture, Activation Functions, Vanishing gradient problem, Recurrent neural networks: For Sequential data, Model compiling arguments: Loss, Optimizer & Metrics
+
+# Statistics
+##### Measures of central Tendency-(Mean,Mode,Median), Measures of Spread-Variance & Standard Deviation, Correlation, Normal Distribution, CTL, Hypothesis testing-Z-test, t-test
+
+# Python Concepts
+##### Libraries, Web Scrapping, Deploying ML models as API, Microservices Architecture.
